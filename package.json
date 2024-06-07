@@ -1,0 +1,13 @@
+{
+    "name": "todo-desktop-app",
+    "version": "1.0.0",
+    "description": "A simple To-Do List desktop application",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "devDependencies": {
+      "electron": "^13.1.7"
+    }
+  }
+  
